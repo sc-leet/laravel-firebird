@@ -1,16 +1,12 @@
 {
-    "name": "sim_1984/laravel-firebird",
+    "name": "solcraft-sia/laravel-firebird",
     "description": "A Firebird database package for the Laravel Framework",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "authors": [
         {
-            "name": "Jacques van Zuydam",
-            "email": "jtvanzuydam@gmail.com"
-        },
-        {
-            "name": "Simonov Denis",
-            "email": "sim-mail@list.ru"
+            "name": "Vadims Talapins",
+            "email": "vadims.talapins@solcraft.lv"
         }
     ],
     "prefer-stable": true,
