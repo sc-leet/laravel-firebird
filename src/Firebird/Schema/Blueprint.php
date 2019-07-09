@@ -79,9 +79,9 @@ class Blueprint extends BaseBlueprint
      *
      * @return void
      */
-    protected function addImpliedCommands()
+    protected function addImpliedCommands($grammar)
     {
-        parent::addImpliedCommands();
+        parent::addImpliedCommands($grammar);
 
         if (!$this->use_identity) {
             $this->addSequence();
